@@ -16,7 +16,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-Programming tool: Qt Creator 4.12.3 <https://www.qt.io/product/development-tools>.
+Programming tool: Qt Creator <https://www.qt.io/product/development-tools>.
 
 This program uses tinyxml2, original code by Lee Thomason <http://www.grinninglizard.com>.
 
