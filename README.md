@@ -1,6 +1,8 @@
 # CFOPMaster
 An application for solving the Rubik's cube using the CFOP method. You should be familiar with the notation to understand this program.
 
+** Important: This app has some bugs, use SpeedSolving Master instead - all the bugs are corrected and it has many more features **
+
 Copyright (C) 2020  Germán Ramos  grvigo@hotmail.com
 
 This program is free software: you can redistribute it and/or modify
